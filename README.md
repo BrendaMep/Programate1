@@ -1,8 +1,9 @@
 ![](uv.png)
 
-## Universidad Veracruzana.
+#Universidad Veracruzana.
 ![](mat.jpg)
+
 # Programate nivel 1
-## 
-Aprender mas sobre programación y matemáticas.\\
-En este proyecto se presentan algunos metodos de ordenamiento los cuales se describiran a continuación.
+## Brenda Medina
+
+En este proyecto se presentan algunos métodos de ordenamiento, los cuales se describirán a continuación.
