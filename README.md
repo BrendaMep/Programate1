@@ -1,4 +1,4 @@
-![](uv.png :scale: 50 )
+![](uv.png)
 
 #Universidad Veracruzana.
 
