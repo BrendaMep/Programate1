@@ -1,3 +1,3 @@
 # Programate1
 Aprender mas sobre programación y matemáticas.\\
-Vamos a ver algunos 
+En este proyecto se presentan algunos metodos de ordenamiento los cuales se describiran a continuación.
