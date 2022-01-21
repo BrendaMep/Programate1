@@ -1,4 +1,4 @@
-![](images/uv.png)
+![](uv.png)
 
 ## Universidad Veracruzana.
 
