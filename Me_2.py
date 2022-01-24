@@ -21,4 +21,9 @@ def metodo_2(ls):
         ls[i],ls[n] = ls[n],ls[i]
     return ls
 
-print(metodo_2(lis))
+print("Lista")
+print(lis)
+print("Lista ordenada: ")
+metodo_2(lis)
+print(lis)
+

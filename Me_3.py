@@ -2,8 +2,8 @@ from plot import barplot
 import simpleaudio as sa
 from sonido import get_sound_array
 
-lis = [3,44,38,5,47,27,2,46,19,16,0]
-l2 = [2,4,1,8,7,6,20,9,18]
+
+#l2 = [2,4,1,8,7,6,20,9,18]
 
 
 def metodo_3(ls):
@@ -20,7 +20,9 @@ def metodo_3(ls):
        ls[j+1] = val
     return ls
 
-
-
-c = metodo_3(lis)
-print(c)
+lis = [3,44,38,5,47,27,2,46,19,16,0]
+print("Lista")
+print(lis)
+print("Lista ordenada: ")
+metodo_3(lis)
+print(lis)
