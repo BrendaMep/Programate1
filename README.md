@@ -7,8 +7,8 @@
 # Programate nivel 1
 ## Brenda Medina
 
-En este proyecto se presentan algunos métodos de ordenamiento, los cuales se describirán a continuación.
-*Metodo de la burbuja 
+En este proyecto se presentan algunos métodos de ordenamiento como; burbuja, de selkección, insersión y quicksort, los cuales se describirán a continuación.
+##*Metodo de la burbuja 
 *metodo de seleccion
 *metodo de insersion 
 *quicksort
