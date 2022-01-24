@@ -1,25 +1,24 @@
-x = [4,5,6,7]
-r = ["h", "o", "l", "a"]
-print(list(zip(x,r)))
+#El me_1 lleva mas tiempo
+"""
+#print(ls_3)
+def me_1(lis):
+    am = len(lis)
+    for i in range(am+1):
+        for j in range(am-1):
+            if lis[j+1] < lis[j]:
+                var = lis[j]
+                lis[j] = lis[j+1]
+                lis[j+1] = var
+            barplot(lis,j)
+        i +=1
+    return lis
 
-m = [11,21,23]
-n = ["edad", "edad", "edad"]
-v = ["hermana", "hermano", "hermana"]
-print(list(zip(n,m)))
-print(list(zip(v,m)))
-print(list(zip(v,n,m)))
+#x = me_1(ls)
+#print(x)
 
-for i,j in zip(n,m):
-    print("i:", i, "-j:", j)
+#me_1(ls_2)
 
-ls = [i+4 for i in m]
-print(ls)
-
-m_1 = [1,2,3]
-
-ls_1 = [j +2**j for j in m_1]
-print(ls_1)
+print(me_1(ls_3))
 
 
-ls_2 = [print(i) for i in range(3) if m[i]<m_1[i] ]
-print(ls_2)
+"""
